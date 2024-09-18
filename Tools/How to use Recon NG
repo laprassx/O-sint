@@ -1,1 +1,235 @@
+*Recon-ng** is a powerful, open-source web reconnaissance framework designed for information gathering and vulnerability scanning. It is often used in the initial stages of penetration testing, allowing hackers and security researchers to collect intelligence about a target website, domain, or network through automated methods. Recon-ng is similar in design to Metasploit, but it is specifically focused on **reconnaissance**.
 
+Let’s go through the **details** of **Recon-ng**, how to use it, and a step-by-step guide for beginners.
+
+---
+
+## What is Recon-ng?
+
+Recon-ng provides a modular interface to automate tasks like gathering information about domains, subdomains, users, email addresses, IP addresses, and much more. The framework is written in Python and has a command-line interface (CLI) similar to **Metasploit**, but it focuses on reconnaissance.
+
+### Key Features of Recon-ng:
+1. **Modules**: It has many pre-built modules for tasks like WHOIS lookups, DNS lookups, geolocation, social media gathering, etc.
+2. **API Integration**: Recon-ng supports various APIs (like Shodan, Censys, FullContact) to gather more detailed information from external sources.
+3. **Workspaces**: Similar to **projects** in Metasploit, you can work in different **workspaces** for different targets.
+4. **Reports**: Recon-ng allows you to generate reports in various formats like JSON and HTML to document your findings.
+
+---
+
+## How to Install Recon-ng?
+
+Recon-ng comes pre-installed on **Kali Linux**. However, if you're using another Linux distro or even Windows, you can easily install it.
+
+### For Kali Linux (Pre-installed):
+- Recon-ng comes pre-installed on **Kali Linux**, so no need for additional installation.
+
+### Installation on Other Linux Systems:
+1. **Install Dependencies**:
+  - Make sure you have **Python3** and **pip3** installed:
+    ```bash
+    sudo apt update
+    sudo apt install python3 python3-pip
+    ```
+
+2. **Install Recon-ng**:
+  ```bash
+  git clone https://github.com/lanmaster53/recon-ng.git
+  cd recon-ng
+  sudo python3 setup.py install
+  ```
+
+### Installation on Windows:
+1. **Install Python**: Ensure you have **Python 3** installed from the official website.
+2. **Install Recon-ng**:
+  - Open **Command Prompt** and run:
+    ```bash
+    git clone https://github.com/lanmaster53/recon-ng.git
+    cd recon-ng
+    python setup.py install
+    ```
+
+---
+
+## Recon-ng Commands & Usage
+
+Once installed, Recon-ng operates in a **Metasploit-like** fashion. You enter a command-line shell and can run different modules.
+
+### Step-by-Step Guide for Using Recon-ng:
+
+#### Step 1: **Start Recon-ng**
+
+To launch **Recon-ng**, type the following command in your terminal:
+```bash
+recon-ng
+```
+
+You will see a prompt similar to:
+```bash
+[recon-ng][default] >
+```
+
+#### Step 2: **Create a Workspace**
+
+Workspaces help you keep track of your information-gathering process for different targets. Creating a workspace for a new target is highly recommended:
+```bash
+workspace create myworkspace
+```
+
+Switch to your workspace:
+```bash
+workspace select myworkspace
+```
+
+#### Step 3: **Modules in Recon-ng**
+
+Recon-ng is built around modules that perform specific tasks. You can list all available modules using:
+```bash
+show modules
+```
+
+You will see different categories of modules, such as:
+- **Recon modules** (e.g., `recon/domains-hosts/brute_hosts`)
+- **Reporting modules** (e.g., `reporting/list`)
+- **API modules** (e.g., `recon/contacts-contacts/fullcontact`)
+
+#### Step 4: **Add a Target Domain**
+
+You’ll need to specify a target (domain or IP) to use with most modules. Add a domain like this:
+```bash
+add domains example.com
+```
+
+You can view the domains or other data you’ve added by typing:
+```bash
+show domains
+```
+
+#### Step 5: **Use Modules**
+
+You can load a specific module to perform an operation. For example, if you want to perform a brute-force attack to find subdomains, you can use the `brute_hosts` module:
+```bash
+use recon/domains-hosts/brute_hosts
+```
+
+Set the domain you want to target:
+```bash
+set SOURCE example.com
+```
+
+Execute the module:
+```bash
+run
+```
+
+You’ll now see a list of subdomains discovered by the brute force attack.
+
+#### Step 6: **Use APIs for More Data**
+
+Recon-ng can integrate with external APIs (like Shodan, Censys, or Whois). To use these, you first need to configure the **API keys**.
+
+1. **View available keys**:
+  ```bash
+  keys list
+  ```
+
+2. **Add a key** (replace `SHODAN_API_KEY` with your actual API key):
+  ```bash
+  keys add shodan_api SHODAN_API_KEY
+  ```
+
+3. **Use the API module**:
+  ```bash
+  use recon/netblocks-hosts/shodan_net
+  set source 1.1.1.0/24
+  run
+  ```
+
+#### Step 7: **Generate Reports**
+
+Once you've gathered data, you can export it in different formats (CSV, JSON, HTML). To export as an HTML report:
+1. Load the **reporting** module:
+  ```bash
+  use reporting/html
+  ```
+
+2. Set the filename:
+  ```bash
+  set FILENAME /path/to/report.html
+  ```
+
+3. Run the report generation:
+  ```bash
+  run
+  ```
+
+---
+
+### Popular Recon-ng Modules
+
+Here’s a list of commonly used **Recon-ng** modules:
+
+1. **recon/domains-hosts/brute_hosts**: Brute force subdomain enumeration.
+2. **recon/domains-hosts/enum_dns**: DNS enumeration.
+3. **recon/domains-hosts/hackertarget**: Uses the Hackertarget API to find subdomains.
+4. **recon/contacts-contacts/fullcontact**: Gathers information using the FullContact API.
+5. **recon/profiles-profiles/github**: Gathers information about GitHub profiles related to the domain.
+6. **recon/hosts-hosts/shodan_ip**: Gathers information about IP addresses using the Shodan API.
+
+---
+
+### Example Workflow
+
+Here’s an example of how you might use **Recon-ng** in a typical reconnaissance task:
+
+1. **Create a workspace**:
+  ```bash
+  workspace create example
+  ```
+
+2. **Add a target domain**:
+  ```bash
+  add domains example.com
+  ```
+
+3. **Gather subdomains**:
+  ```bash
+  use recon/domains-hosts/brute_hosts
+  set source example.com
+  run
+  ```
+
+4. **Get IP addresses for the domain**:
+  ```bash
+  use recon/domains-hosts/hackertarget
+  set source example.com
+  run
+  ```
+
+5. **Get more info using APIs (e.g., Shodan)**:
+  ```bash
+  keys add shodan_api YOUR_API_KEY
+  use recon/hosts-hosts/shodan_ip
+  set source <target-IP>
+  run
+  ```
+
+6. **Generate a report**:
+  ```bash
+  use reporting/html
+  set filename /path/to/report.html
+  run
+  ```
+
+---
+
+## Conclusion
+
+**Recon-ng** is a flexible and powerful reconnaissance tool for penetration testers and security researchers. It automates a wide range of recon tasks, integrates with APIs for deeper scans, and allows you to generate professional reports for your findings.
+
+If you're learning to use Recon-ng, here are some tips:
+
+1. **Experiment with modules**: Recon-ng has a lot of modules for different recon purposes, so try out different ones to see what fits your needs.
+2. **Use APIs**: Some of the best information comes from APIs like Shodan, so make sure to set up your API keys.
+3. **Practice with a target**: Pick a target (e.g., a personal website) and run a full recon process to get familiar with the tool.
+
+With time and practice, Recon-ng will become a valuable part of your **penetration testing toolkit**
