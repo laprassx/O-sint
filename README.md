@@ -24,48 +24,80 @@ This repository aims to provide tools, resources, and techniques for leveraging 
 personal
 
 Number
+
 Email
+
 ip
+
 geolocation
+
 images
+
 Data breaches
+
 vehicles
+
 public reccords
+
 CV
+
 Weddings and Children
+
 Veichels
+
 
 social medias
 
 general social media osint
+
 discord osint
+
 tiktok osint
+
 gab osint
+
 osint knocking
+
 linked in osint
+
 open sea osint
+
 pokemon go osint
+
 reddit osint skype osint 
+
 snapchat osint
+
 twitter/x osint
+
 youtube osint
+
 tumblr osint
+
 dating sites
 
 domain
+
 web vuns
+
 cookies files and hashes
+
 source code 
+
 web vuns
 
 Tools
 
 Tools
+
 api for osint
+
 Tor 
 
 Tor osint 
+
 crypto tracing
+
 "dark net"
 
 
