@@ -1,0 +1,5 @@
+- **https://www.theknot.com/registry/couplesearch**
+- **https://www.registryfinder.com/**
+- **https://www.myregistry.com/**
+- **https://www.myregistry.com/kohls-wedding-registry.aspx**
+- **https://amazon.co.uk/wedding**
