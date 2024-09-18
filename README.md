@@ -21,7 +21,7 @@ This repository aims to provide tools, resources, and techniques for leveraging 
 ## **Contents**
 
 
-personal
+**personal**
 
 Number
 
@@ -46,7 +46,7 @@ Weddings and Children
 Veichels
 
 
-social medias
+**social medias**
 
 general social media osint
 
@@ -76,7 +76,7 @@ tumblr osint
 
 dating sites
 
-domain
+**domain**
 
 web vuns
 
@@ -86,13 +86,13 @@ source code
 
 web vuns
 
-Tools
+**Tools**
 
 Tools
 
 api for osint
 
-Tor 
+**Tor **
 
 Tor osint 
 
@@ -101,4 +101,4 @@ crypto tracing
 "dark net"
 
 
-osint collections
+**osint collections**
