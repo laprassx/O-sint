@@ -23,20 +23,74 @@ This repository aims to provide tools, resources, and techniques for leveraging 
 
 ## **Personal**
 
-Number, Email, IP, Geolocation, Images, Data Breaches, Vehicles, Public Records, CV, Weddings and Children
+Number 
+
+Email 
+
+IP 
+
+Geolocation
+
+Images
+
+Data Breaches
+
+Vehicles 
+
+Public Records
+
+CV
+
+Weddings and Children
 
 
 ## **Social Media**
 
-General Social Media, Discord, TikTok, Gab, Osint Knocking, LinkedIn, Open Sea, Pokemon Go, Reddit, Skype, Snapchat, Twitter/X, YouTube, Tumblr, Dating Sites
+General Social Media
+
+ Discord
+ 
+ TikTok
+ 
+ Gab
+ 
+ Osint Knocking
+ 
+ LinkedIn
+ 
+ Open Sea
+ 
+ Pokemon Go
+ 
+ Reddit
+ 
+ Skype
+ 
+ Snapchat
+
+ Twitter/X
+ 
+ YouTube
+ 
+ Tumblr
+ 
+ Dating Sites
 
 ## **Domain**
 
-Cookies, Files, Hashes, Source Code
+Cookies
+
+Files
+
+Hashes
+
+Source Code
 
 ## **Tools**
 
-Tools, API for OSINT
+Tools
+
+API for OSINT
 
 ### **Tor**
 
