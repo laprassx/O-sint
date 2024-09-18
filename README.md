@@ -46,59 +46,59 @@ Weddings and Children
 
 ## **Social Media**
 
-General Social Media
+- General Social Media
 
- Discord
+- Discord
  
- TikTok
+- TikTok
  
- Gab
+- Gab
  
- Osint Knocking
+- Osint Knocking
  
- LinkedIn
+- LinkedIn
  
- Open Sea
+- Open Sea
  
- Pokemon Go
+- Pokemon Go
  
- Reddit
+- Reddit
  
- Skype
+- Skype
  
- Snapchat
+- Snapchat
 
- Twitter/X
+- Twitter/X
  
- YouTube
+- YouTube
  
- Tumblr
+- Tumblr
  
- Dating Sites
+- Dating Sites
 
 ## **Domain**
 
-Cookies
+- Cookies
 
-Files
+- Files
 
-Hashes
+- Hashes
 
-Source Code
+- Source Code
 
 ## **Tools**
 
-Tools
+- Tools
 
-API for OSINT
+- API for OSINT
 
 ### **Tor**
 
-Tor OSINT
+- Tor OSINT
 
-Crypto Tracing
+- Crypto Tracing
 
-"dark net"
+- "dark net"
 
 
 ## **OSINT Collections**
