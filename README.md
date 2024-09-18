@@ -1,7 +1,5 @@
 # Osint
 # **Welcome to the OSINT (Open Source Intelligence) repository!**
-**_____________________________________________________________**
-
 
 OSINT refers to the practice of gathering and analyzing publicly available information from various sources. Unlike traditional intelligence, OSINT relies on data that can be legally accessed and collected from open sources such as websites, social media, news articles, public records, and more. This process can involve a wide range of techniques to extract, aggregate, and interpret information in ways that provide actionable insights.
 
