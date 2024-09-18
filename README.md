@@ -23,25 +23,25 @@ This repository aims to provide tools, resources, and techniques for leveraging 
 
 ## **Personal**
 
-Number 
+- Number 
 
-Email 
+- Email 
 
-IP 
+- IP 
 
-Geolocation
+- Geolocation
 
-Images
+- Images
 
-Data Breaches
+- Data Breaches
 
-Vehicles 
+- Vehicles 
 
-Public Records
+- Public Records
 
-CV
+- CV
 
-Weddings and Children
+- Weddings and Children
 
 
 ## **Social Media**
