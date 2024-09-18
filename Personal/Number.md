@@ -4,7 +4,7 @@
 - **https://osint.industries/**
 - **http://spydialer.com/**
 - **https://people.yellowpages.com/whitepages/phone-lookup?phone=<NUMBER>**
-- **https://www.whitepages.com/phone/<NUMBER>v
+- **https://www.whitepages.com/phone/<NUMBER>**
 - **https://www.ipqualityscore.com/**
 - **http://truecaller.com/**
 - **https://thatsthem.com/**
