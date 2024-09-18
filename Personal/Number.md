@@ -1,0 +1,12 @@
+- **http://calleridtest.com/**
+- **http://everyoneapi.com/**
+- **http://freecarrierlookup.com/**
+- **https://osint.industries/**
+- **http://spydialer.com/**
+- **https://people.yellowpages.com/whitepages/phone-lookup?phone=<NUMBER>**
+- **https://www.whitepages.com/phone/<NUMBER>v
+- **https://www.ipqualityscore.com/**
+- **http://truecaller.com/**
+- **https://thatsthem.com/**
+- **https://www.osintteam.com/osint-phone-numbers-like-a-pro-best-tools-and-methods-revealed/**
+- **https://ibb.co/b56vhGC <---- Graph for investigating Numbers**
