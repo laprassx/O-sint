@@ -1,1 +1,33 @@
+Google Dorks
 
+    https://sankalppatil12112001.medium.com/...d5a8eedb32 - Google Hacking: Google Dorks for Sensitive Information
+    https://habr.com/ru/companies/postuf/articles/510766/ - Google Dorking Usage
+    https://www.exploit-db.com/google-hacking-database
+
+
+https://leakpeek.com/
+
+https://breachdirectory.org/ - Gives you a password's hash
+
+SHA-1 Password decryption - md5decrypt.net/en/Sha1
+
+https://psbdmp.ws/api/search/test@test.com - Monitors the entire Pastebin
+
+site:xlek.com "[email=test@test.com]test@test.com[/email]"
+
+
+http://get-metadata.com/
+
+http://otx.alienvault.com/
+
+http://domainiq.com/reverse_analytics
+
+http://search.nerdydata.com/
+
+http://builtwith.com/
+
+https://www.threatminer.org/
+
+http://analyzeid.com/
+
+https://malcore.io/
