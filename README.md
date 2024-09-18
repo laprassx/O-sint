@@ -102,3 +102,49 @@ This repository aims to provide tools, resources, and techniques for leveraging 
 
 
 ## **OSINT Collections**
+
+## **Country Based**
+
+-UK 
+
+-Switerland
+
+-South Africa
+
+-USA
+
+-Germany
+
+-Canada
+
+-Australia
+
+-Argentina
+
+-Brazil
+
+-Bulgaria
+
+-China
+
+-Columbia
+
+-Hungary
+
+-India
+
+-Iran
+
+-Japan
+
+-Maalyasia
+
+-Netherlands
+
+-Poland
+
+-Rusia
+
+-South Korea
+
+-Thailand
