@@ -1,5 +1,4 @@
-Popular news sites:
-_______________________
+## Popular news sites:
 - Clarin: http://clarin.com/
 - Infobae: http://infobae.com/
 - La Nacion: http://www.lanacion.com.ar/
