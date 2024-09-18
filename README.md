@@ -150,3 +150,14 @@ This repository aims to provide tools, resources, and techniques for leveraging 
 - Thailand
 
 - Middle East
+
+# **Legal Disclaimer**
+
+Legal Disclaimer: OSINT Resource Usage
+
+The Open Source Intelligence (OSINT) resources and tools provided are intended solely for legal and ethical purposes. I do not condone, endorse, or promote any illegal or unauthorized use of these materials. Users are fully responsible for ensuring that they comply with all applicable laws and regulations when using these resources.
+
+All materials, tools, and data referenced or shared may belong to their respective owners and creators. Full credit is given to these individuals and entities for their work. By using this information, you acknowledge that you understand and agree to respect intellectual property rights, privacy rights, and legal boundaries.
+
+Always conduct OSINT activities within the confines of the law, and consult with legal professionals if you're uncertain about the legality of your actions. Misuse of this information for illegal purposes is strictly prohibited.
+
