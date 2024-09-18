@@ -18,87 +18,33 @@ This process can involve a wide range of techniques to extract, aggregate, and i
 
 This repository aims to provide tools, resources, and techniques for leveraging OSINT efficiently. Whether you are a cybersecurity professional, a researcher, or an investigator, this collection will help streamline your OSINT efforts.
 
-## **Contents**
+# **Contents**
 
 
-**personal**
+## **Personal**
 
-Number
-
-Email
-
-ip
-
-geolocation
-
-images
-
-Data breaches
-
-vehicles
-
-public reccords
-
-CV
-
-Weddings and Children
-
-Veichels
+Number, Email, IP, Geolocation, Images, Data Breaches, Vehicles, Public Records, CV, Weddings and Children
 
 
-**social medias**
+## **Social Media**
 
-general social media osint
+General Social Media, Discord, TikTok, Gab, Osint Knocking, LinkedIn, Open Sea, Pokemon Go, Reddit, Skype, Snapchat, Twitter/X, YouTube, Tumblr, Dating Sites
 
-discord osint
+## **Domain**
 
-tiktok osint
+Cookies, Files, Hashes, Source Code
 
-gab osint
+## **Tools**
 
-osint knocking
+Tools, API for OSINT
 
-linked in osint
+### **Tor**
 
-open sea osint
+Tor OSINT
 
-pokemon go osint
-
-reddit osint skype osint 
-
-snapchat osint
-
-twitter/x osint
-
-youtube osint
-
-tumblr osint
-
-dating sites
-
-**domain**
-
-web vuns
-
-cookies files and hashes
-
-source code 
-
-web vuns
-
-**Tools**
-
-Tools
-
-api for osint
-
-**Tor **
-
-Tor osint 
-
-crypto tracing
+Crypto Tracing
 
 "dark net"
 
 
-**osint collections**
+## **OSINT Collections**
