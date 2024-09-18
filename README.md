@@ -17,3 +17,58 @@ This process can involve a wide range of techniques to extract, aggregate, and i
 4. Business Intelligence: Companies leverage OSINT to conduct market research, analyze competitors, and track industry trends.
 
 This repository aims to provide tools, resources, and techniques for leveraging OSINT efficiently. Whether you are a cybersecurity professional, a researcher, or an investigator, this collection will help streamline your OSINT efforts.
+
+## **Contents**
+
+Contents
+
+personal
+---------
+Number
+Email
+ip
+geolocation
+images
+Data breaches
+vehicles
+public reccords
+CV
+Weddings and Children
+Veichels
+
+social medias
+---
+general social media osint
+discord osint
+tiktok osint
+gab osint
+osint knocking
+linked in osint
+open sea osint
+pokemon go osint
+reddit osint skype osint 
+snapchat osint
+twitter/x osint
+youtube osint
+tumblr osint
+dating sites
+-------------
+domain
+web vuns
+cookies files and hashes
+source code 
+web vuns
+-----
+Tools
+
+Tools
+api for osint
+-----
+Tor 
+
+Tor osint 
+crypto tracing
+"dark net"
+
+--- 
+osint collections
