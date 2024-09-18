@@ -1,1 +1,18 @@
+Find Vulnerability Data and Indicators of Compromise
+Services
 
+    MITRE CVE — A search engine, database, and widely accepted classifier of vulnerabilities.
+    NIST NVD — The official US government vulnerability database.
+    GitHub Advisory Database — A vulnerability database incorporating CVEs and security advisories.
+    CVEDetails, osv.dev, VulDB, maltiverse — Additional sources of data on vulnerabilities and indicators of compromise.
+    opencve.io — A CVE search engine with integrated alerts for new threats.
+    security.snyk.io и Mend Vulnerability Database, Vulncode-DB — Open-source vulnerability databases.
+    Cloudvulndb — A project compiling vulnerabilities and security issues of cloud service providers.
+    Vulnerability Database — A system for searching information about current threats.
+    Rapid7 - DB — A database containing details of over 180 thousand vulnerabilities and 4 thousand exploits, with all exploits included in Metasploit.
+    Exploit DB — A CVE-compliant archive of publicly available exploits and vulnerable software.
+    sploitus — A search engine for exploits and hacking tools.
+
+https://chromewebstore.google.com/detail/shodan/jjalcfnidlmpjhdfepjhjbhnhkbgleap
+
+https://github.com/projectdiscovery/nuclei good for finding vuns 
