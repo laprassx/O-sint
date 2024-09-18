@@ -17,8 +17,6 @@
 - **http://analyzeid.com/**
 - **http://thatsthem.com/**
 - **https://github.com/mxrch/ghunt - Google osint / collecting data about account**
-
 - **https://github.com/megadose/holehe - Check email registration on more than 120 sites**
 - **https://emailrep.io/ - Mail verification service with some features**
-- 
 - **https://ibb.co/SPTJczW <--- graph for investigating emailsv
