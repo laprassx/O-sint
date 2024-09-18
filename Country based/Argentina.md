@@ -1,34 +1,35 @@
-## Popular news sites
-- **Clarin:** http://clarin.com/
-- **Infobae:** http://infobae.com/
-- **La Nacion:** http://www.lanacion.com.ar/
-- **La Gaceta:** http://lagaceta.com.ar/
-- **Minutouno:** http://minutouno.com/
-- **Misiones OnLine:** http://misionesonline.net/
-- **Perfil:** http://perfil.com/
-- **La Voz:** http://www.lavoz.com.ar/
-- **Pagina12:** http://pagina12.com.ar/
-- **DiarioRegistrado:** http://diarioregistrado.com/
-- **Ciudad:** http://ciudad.com.ar/
-- **El Liberal:** http://elliberal.com.ar/
-- **Ambito:** http://ambito.com/
-- **La Capital de Rosario:** http://lacapital.com.ar/
-- **Diario Los Andes:** http://losandes.com.ar/
-- **Diario Panorama:** http://diariopanorama.com/
-- **Cronista:** http://cronista.com/
-- **Diario UNO:** http://diariouno.com.ar/
-- **Cadena3:** http://cadena3.com/
-- **MDZ Online:** http://mdzol.com/
-- **PRIMICIAS YA:** http://primiciasya.com/
-- **Telam:** http://telam.com.ar/
-- **Diario EL DIA:** http://eldia.com/
-- **La Arena:** http://laarena.com.ar/
-- **Diario de Cuyo:** http://diariodecuyo.com.ar/
-- **Cronica:** http://cronica.com.ar/
-- **DIARIO RIO NEGRO:** http://rionegro.com.ar/
-- **DIARIO EL INTRANSIGENTE:** http://elintransigente.com/
-- **Rosario3:** http://rosario3.com/
-- **Contexto Tucuman:** http://contextotucuman.com/
+Popular news sites:
+_______________________
+- Clarin: http://clarin.com/
+- Infobae: http://infobae.com/
+- La Nacion: http://www.lanacion.com.ar/
+- La Gaceta: http://lagaceta.com.ar/
+- Minutouno: http://minutouno.com/
+- Misiones OnLine: http://misionesonline.net/
+- Perfil: http://perfil.com/
+- La Voz: http://www.lavoz.com.ar/
+- Pagina12: http://pagina12.com.ar/
+- DiarioRegistrado: http://diarioregistrado.com/
+- Ciudad: http://ciudad.com.ar/
+- El Liberal: http://elliberal.com.ar/
+- Ambito: http://ambito.com/
+- La Capital de Rosario: http://lacapital.com.ar/
+- Diario Los Andes: http://losandes.com.ar/
+- Diario Panorama: http://diariopanorama.com/
+- Cronista: http://cronista.com/
+- Diario UNO: http://diariouno.com.ar/
+- Cadena3: http://cadena3.com/
+- MDZ Online: http://mdzol.com/
+- PRIMICIAS YA: http://primiciasya.com/
+- Telam: http://telam.com.ar/
+- Diario EL DIA: http://eldia.com/
+- La Arena: http://laarena.com.ar/
+- Diario de Cuyo: http://diariodecuyo.com.ar/
+- Cronica: http://cronica.com.ar/
+- DIARIO RIO NEGRO: http://rionegro.com.ar/
+- DIARIO EL INTRANSIGENTE: http://elintransigente.com/
+- Rosario3: http://rosario3.com/
+- Contexto Tucuman: http://contextotucuman.com/
 
 Business news:
 Nexofin - http://nexofin.com/
