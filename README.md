@@ -105,46 +105,46 @@ This repository aims to provide tools, resources, and techniques for leveraging 
 
 ## **Country Based**
 
--UK 
+- UK 
 
--Switerland
+- Switerland
 
--South Africa
+- South Africa
 
--USA
+- USA
 
--Germany
+- Germany
 
--Canada
+- Canada
 
--Australia
+- Australia
 
--Argentina
+- Argentina 
 
--Brazil
+- Brazil
 
--Bulgaria
+- Bulgaria
 
--China
+- China
 
--Columbia
+- Columbia
 
--Hungary
+- Hungary
 
--India
+- India
 
--Iran
+- Iran
 
--Japan
+- Japan
 
--Maalyasia
+- Maalyasia
 
--Netherlands
+- Netherlands
 
--Poland
+- Poland
 
--Rusia
+- Rusia
 
--South Korea
+- South Korea
 
--Thailand
+- Thailand
