@@ -19,6 +19,9 @@
 
 ## **Tools**
 
+### **Sherlock**
+- **https://github.com/sherlock-project/sherlock**
+- Searches for reused Usernames across Multiple Sites
 ### **Instaloader**
 - **https://github.com/instaloader/instaloader**
 - It scrapes the contents of an Instagram account, can analyse the metadata from the account, maybe some phone numbers and emails if they falsely configured it. No account needed, unless the user is private
