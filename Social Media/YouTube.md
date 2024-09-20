@@ -1,4 +1,4 @@
-## **Template for extracting targeted text from source code++
+## **Template for extracting targeted text from source code**
 
 javascript.
 var html = document.documentElement.innerHTML;
