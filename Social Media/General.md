@@ -15,7 +15,7 @@
 - **https://findclone.ru/ searching by face on social media(vk as i remember)**
 - **https://search4faces.com/ - search user's profile picture on social media**
 - **https://webresolver.nl/ - skype osint**
-- **https://ibb.co/5vCLB62 <---- grapgh for investigating usernames ect**
+- **https://ibb.co/5vCLB62** <---- Graph for investigating usernames etc.
 
 ## **Tools**
 
